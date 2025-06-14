@@ -7,8 +7,14 @@
 
 ---
 
-## 🎥 デモ動画
+##  デモ動画
 
 以下の動画で、超音波センサーによる距離測定装置の実演をご覧いただけます：
 
 [![Demo Video](https://img.youtube.com/vi/5OuXl21PJFs/0.jpg)](https://www.youtube.com/watch?v=5OuXl21PJFs)
+
+---
+
+##  回路図
+
+下記がfritzingを利用したブレッドボード図です
